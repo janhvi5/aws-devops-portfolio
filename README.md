@@ -1,5 +1,4 @@
-# aws-devops-portfolio
-AWS DevOps portfolio showcasing CI/CD, Terraform, Ansible, Docker, and Cloud automation projects
+
 # AWS DevOps Portfolio – Janhvi Jagtap
 
 DevOps Engineer with 3.6 years of experience in AWS Cloud, CI/CD automation, Linux administration, Docker containerization, and infrastructure automation.
