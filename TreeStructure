@@ -1,0 +1,10 @@
+aws-devops-portfolio/
+├── ci-cd/
+│   └── jenkins/
+│       └── Jenkinsfile
+├── terraform/
+│   └── main.tf
+├── ansible/
+│   └── playbook.yml
+└── docker/
+    └── Dockerfile
